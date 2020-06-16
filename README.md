@@ -69,6 +69,7 @@ The sketch for the Arduino Esp32 can be found as ESP32_MQTT_DHT11_DS18B20_V2.3.i
 - the DallasTemperature-3.8.0 library.
 - the Adafruit_Sensor-master.zip library 
 - All these libraries can be downloaded from Github.
+
 -You must use the function "Node-Red/Import nodes" of Node-Red to import the file "20200615 Node_Red_V1.2_flows.json" to restore the flows. 
 You must change in "setup idx numbers, switches" all the numbers of the idx.. global variables according to your setup in Domoticz, see above, press Deploy and run this function once
 It is advised that you change in the flow the connection of the node "Filter RELAY0 or 1" to "process T0 or T1, RELAY0, 1" 4-5 or 6-7 if you use DS18B20 sensor(s) and relays and press Deploy.
