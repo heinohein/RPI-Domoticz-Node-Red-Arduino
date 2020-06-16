@@ -1,0 +1,27 @@
+15 Jun 18:42:59 - [info] [function:Set swRELAY0 or 1 ] 57
+15 Jun 18:42:59 - [info] [function:send RELAY1  set swRELAY1] 1
+15 Jun 18:43:27 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:43:27 - [info] [function:Filter RELAY0 or 1] set RELAY0
+15 Jun 18:43:27 - [info] [function:Filter RELAY0 or 1] set RELAY1
+15 Jun 18:43:27 - [info] [function:send RELAY0  set swRELAY0] 1
+15 Jun 18:43:27 - [info] [function:send RELAY1  set swRELAY1] 0
+15 Jun 18:43:28 - [info] [function:Set swRELAY0 or 1 ] 56
+15 Jun 18:43:28 - [info] [function:send RELAY0  set swRELAY0] 1
+15 Jun 18:43:29 - [info] [function:Set swRELAY0 or 1 ] 57
+15 Jun 18:43:29 - [info] [function:send RELAY1  set swRELAY1] 0
+15 Jun 18:43:57 - [info] [function:process  TH,  RELAY0, 1] 24
+15 Jun 18:44:27 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:44:57 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:45:28 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:45:58 - [info] [function:process  TH,  RELAY0, 1] 24
+15 Jun 18:46:28 - [info] [function:process  TH,  RELAY0, 1] 24
+15 Jun 18:46:58 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:47:28 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:47:58 - [info] [function:process  TH,  RELAY0, 1] 24
+15 Jun 18:48:28 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:48:58 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:49:28 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:49:58 - [info] [function:process  TH,  RELAY0, 1] 25
+15 Jun 18:50:28 - [info] [function:process  TH,  RELAY0, 1] 24
+15 Jun 18:50:58 - [info] [function:process  TH,  RELAY0, 1] 25
+
